@@ -15,4 +15,4 @@
 
 ### Contact:
 <a href="https://www.linkedin.com/in/ana-inés-avalos-a894a9278/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" /></a>
-<a href="mailto:avalos.anaines@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mail.svg" width="24" height="24" alt="Correo electrónico" /></a>
+<a href="mailto:avalos.anaines@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/google.svg" width="24" height="24" alt="Correo electrónico" /></a>
